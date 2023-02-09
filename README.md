@@ -1,6 +1,6 @@
 <!-- ### Hello! I'm Geonu Lee. 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Geonu%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#79CF9F&height=300&section=header&text=Geonu%20Lee&fontSize=90)
 
 <!--
 **Geonu-Lee/Geonu-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
