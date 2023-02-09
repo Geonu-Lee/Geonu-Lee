@@ -5,7 +5,7 @@
 ### Hello!👋
   
 ### About me🧑🏻‍💻
-<a href="https://sites.google.com/view/geounlee/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+<a href="https://sites.google.com/view/geounlee/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 
 
   
