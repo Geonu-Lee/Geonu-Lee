@@ -6,7 +6,7 @@
   
 ### About Me🧑🏻‍💻
 <a href="https://sites.google.com/view/geonulee/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
-<a href="mailto:leegeonu3139@gmail.com"><img src="https://img.shields.io/badge/leegeonu3139@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:leegeonu3139@gmail.com"><img src="https://img.shields.io/badge/geonu.lee.dl@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Tech Stack🛠️
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
