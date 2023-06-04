@@ -5,7 +5,7 @@
 ### Hello!👋
   
 ### About Me🧑🏻‍💻
-<a href="https://sites.google.com/view/geonulee/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+<a href="https://bit.ly/geonulee"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 <a href="mailto:leegeonu3139@gmail.com"><img src="https://img.shields.io/badge/geonu.lee.dl@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Tech Stack🛠️
