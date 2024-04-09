@@ -7,11 +7,8 @@
 ### About Me🧑🏻‍💻
 <a href="https://bit.ly/geonulee"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 <a href="mailto:leegeonu3139@gmail.com"><img src="https://img.shields.io/badge/geonu.lee.dl@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://geonu-lee.github.io"><img src="https://img.shields.io/badge/Blog-#FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
-### Tech Stack🛠️
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- 
 ### Papers📖
 <a href="https://www.mdpi.com/2076-3417/10/4/1531/htm"><img src="https://img.shields.io/badge/-Body--Part--Aware%20and%20Multitask--Aware%20Single--Image--Based%20Action%20Recognition-brightgreen"/></a>
 
