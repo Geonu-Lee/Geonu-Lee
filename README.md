@@ -19,7 +19,5 @@
 <a href="https://www.mdpi.com/1424-8220/22/17/6626"><img src="https://img.shields.io/badge/-Occluded%20Pedestrian--Attribute%20Recognition%20for%20Video%20Sensors%20Using%20Group%20Sparsity-brightgreen"/></a>
   
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGeonu-Lee&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
